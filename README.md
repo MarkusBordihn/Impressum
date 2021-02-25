@@ -2,6 +2,7 @@
 Impressum to be comply with the German tele-media regulations.
 
 ## Angaben gem. § 5 TMG
+Verantwortlich für GitHub-Inhalte unter dem Benutzerkonto **[MarkusBordihn](https://github.com/MarkusBordihn)**:
 
 Markus Bordihn<br>
 c/o Grosch Postflex #1096<br>
@@ -34,3 +35,10 @@ Werden mir Rechtsverletzungen bekannt, werden die externen Links durch uns unver
 Die auf dem GitHub Benutzerkonto **[MarkusBordihn](https://github.com/MarkusBordihn)** veröffentlichen Inhalte und Werke unterliegen dem deutschen Urheberrecht, US-Urheberrecht bzw. internationalem Urheberrecht.
 Sind die Inhalte auf dem GitHub Benutzerkonto **[MarkusBordihn](https://github.com/MarkusBordihn)**  nicht von mir erstellt wurden, sind die Urheberrechte Dritter zu beachten. Die Inhalte Dritter werden als solche kenntlich gemacht. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis.
 Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte unverzüglich entfernen.
+
+### Fork
+
+Ein Fork ist eine Kopie eines fremden Repositorys und mit **(Forked from ...)** gekennzeichent.
+Üblicherweise werden Forks genutzt, um Änderungen für ein Projekt eines anderes Benutzers vorzuschlagen oder ein Projekt eines anderen Benutzers als Ausgangspunkt für eigene Ideen zu verwenden.
+
+Mehr Informationen unter: https://help.github.com/de/articles/fork-a-repo
